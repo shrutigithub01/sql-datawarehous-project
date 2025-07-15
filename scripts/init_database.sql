@@ -9,7 +9,7 @@ Script purpose:
 Warning:
   Running this script will drop the entire database "DataWarehouse" and all data will be permanently deleted
 
-8*/
+*/
 
 USE master
 GO
